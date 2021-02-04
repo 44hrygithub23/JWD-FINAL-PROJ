@@ -1,0 +1,25 @@
+{
+  "name": "catalyst-final-project-jwd",
+  "version": "1.0.0",
+  "description": "My personal version of the project in case things go wrong, The project is about handling tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "build": "babel js -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okiyitooo/catalyst-final-project-jwd.git"
+  },
+  "author": "Kanaetochi Okiyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okiyitooo/catalyst-final-project-jwd/issues"
+  },
+  "homepage": "https://github.com/okiyitooo/catalyst-final-project-jwd#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-env": "^1.7.0",
+    "mocha": "^8.2.1"
+  }
+}
